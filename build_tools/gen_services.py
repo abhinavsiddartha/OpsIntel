@@ -1,0 +1,1 @@
+import os, sys\nprint(" Generator ready\)\n

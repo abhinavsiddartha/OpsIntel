@@ -1,0 +1,15 @@
+﻿fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+sqlalchemy
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt
+python-multipart
+numpy
+pandas
+scikit-learn
+scipy
+pytest
+httpx
